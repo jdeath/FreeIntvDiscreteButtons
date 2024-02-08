@@ -49,11 +49,14 @@ Mattel Intellivision games were often meant to be played with game-specific card
 
 ## Controls (Discrete Button Setup - If you have a INTV Controller)
 These directions are using a Retronic Design Adapter with an AtGames INTV Flashback Controller. My device worked best (all keys worked on two controlles) with firmware Intellivision_Flashback_Controller_DollarGeneral_v3.3.hex (https://github.com/retronicdesign/USBJoystickAdapter_v3.3/releases/tag/v3.3). 
+
 <img src="https://github.com/jdeath/FreeIntvDiscreteButtons/assets/17914369/8f85c5ca-9af2-4bd1-a918-185472afb2c0" width="300">
 
 
+<img src="https://github.com/jdeath/FreeIntvDiscreteButtons/assets/17914369/c9e1a746-8cb4-4824-81fd-067068421c4c" width="500">
 
-Hold 6 on Insert to change with Mr. Switcher
+### Flash the Firmware
+Get the Mr. Switcher Software from Retronic Design (https://www.retronicdesign.com/). Plug in controller to converter. Hold 6 button on controller while pluggin in the USB to computer. Keep holding, then hit refresh in software. You should see HIDBoot. Click the firmware and flash. Must still be holding 6. It will probably error, but it actually works. You will see the device name change in Mr. Switcher
 
 TBD
 
