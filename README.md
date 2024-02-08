@@ -1,6 +1,8 @@
 # FreeIntv
 FreeIntv is a libretro emulation core for the Mattel Intellivision designed to be compatible with joypads from the SNES era forward even if they originally required a number pad.
 
+This version includes an option to assign every Intellivision button to a seperate Retropad button. This change was made my msheehan79 (not me!) and available in his dev2 fork (https://github.com/msheehan79/FreeIntv/tree/dev2) . I am including it here in a master branch to be easier to use, incude come compiled cores in releases, and provide insturctions for use in batocera. 
+
 ## Authors
 
 FreeIntv was created by David Richardson.
@@ -27,7 +29,7 @@ FreeIntv does not currently support Entertainment Computer System (ECS) function
 ## Controller overlays
 Mattel Intellivision games were often meant to be played with game-specific cards overlaid on the numeric keypad. These overlays convey information which can be very useful in gameplay. Images of a limited selection of Intellivision titles are available at: http://www.intellivisionlives.com/bluesky/games/instructions.shtml
 
-## Controls
+## Controls (Default OSD Setup - If Do not have an INTV Controller)
 
 * **Mini-Keypad** - allows the user to view and select keys from a small Intellivision pad in the lower corner of the display.
 * **Controller Swap** - Some Intellivision games expect the left controller to be player one, others expect the right controller. This isn't a problem if you have two controllers (and don't mind juggling them) but users with only one controller or using a portable setup would be effectively locked out of some games. Controller Swap swaps the two controller interfaces so that the player does not have to physically swap controllers.
@@ -42,4 +44,7 @@ Mattel Intellivision games were often meant to be played with game-specific card
 | L/R | Activate the Mini-Keypad |
 | Start | Pause Game |
 | Select | Controller Swap |
+
+## Controls (Discrete Button Setup - If you have a INTV Controller)
+TBD
 
