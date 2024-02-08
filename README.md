@@ -50,6 +50,8 @@ Mattel Intellivision games were often meant to be played with game-specific card
 ## Controls (Discrete Button Setup - If you have a INTV Controller)
 These directions are using a Retronic Design Adapter with an AtGames INTV Flashback Controller. My device worked best (all keys worked on two controlles) with firmware Intellivision_Flashback_Controller_DollarGeneral_v3.3.hex (https://github.com/retronicdesign/USBJoystickAdapter_v3.3/releases/tag/v3.3). 
 
+The AtGames INTV flashback is pretty fun. But the sound sticks, cannot save games, cannot use cheats, etc. But a great way to obtain the license to run the games and the controllers are exactly like the orginal!
+
 <img src="https://github.com/jdeath/FreeIntvDiscreteButtons/assets/17914369/8f85c5ca-9af2-4bd1-a918-185472afb2c0" width="300">
 
 
