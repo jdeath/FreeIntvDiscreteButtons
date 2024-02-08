@@ -3,6 +3,8 @@ FreeIntv is a libretro emulation core for the Mattel Intellivision designed to b
 
 This version includes an option to assign every Intellivision button to a seperate Retropad button. This change was made my msheehan79 (not me!) and available in his dev2 fork (https://github.com/msheehan79/FreeIntv/tree/dev2) . I am including it here in a master branch to be easier to use, incude come compiled cores in releases, and provide insturctions for use in batocera. 
 
+Hopefully one day this will be the default version, but until then will have a copy here. Most ColecoVision cores have this option, so should eventually make it to the default. Must not be many INTV fans around anymore!
+
 ## Authors
 
 FreeIntv was created by David Richardson.
