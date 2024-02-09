@@ -48,7 +48,7 @@ Mattel Intellivision games were often meant to be played with game-specific card
 | Select | Controller Swap |
 
 ## Controls (Discrete Button Setup - If you have a INTV Controller)
-These directions are using a Retronic Design Adapter with an AtGames INTV Flashback Controller. My device worked best (all keys worked on two controlles) with firmware Intellivision_Flashback_Controller_DollarGeneral_v3.3.hex (https://github.com/retronicdesign/USBJoystickAdapter_v3.3/releases/tag/v3.3). The retronic design converter is really nice and supports many orrignal controllers like INTV, Coleco, Atari, etc. Support them. Each coverter is about $30 USD.
+These directions are using a Retronic Design Adapter with an AtGames INTV Flashback Controller. My device worked best (all keys worked on two controllers) with firmware Intellivision_Flashback_Controller_DollarGeneral_v3.3.hex (https://github.com/retronicdesign/USBJoystickAdapter_v3.3/releases/tag/v3.3). The retronic design converter is really nice and supports many orrignal controllers like INTV, Coleco, Atari, etc. Support them. Each coverter is about $30 USD.
 
 The AtGames INTV flashback is pretty fun. But the sound sticks, cannot save games, cannot use cheats, etc. But a great way to obtain the license to run the games and the controllers are exactly like the orginal!
 
@@ -124,3 +124,6 @@ and it should load by default.
 
 ### Notes
 Happy playing! You can only hit 1 key at a time. For instance, if playing "Night Stalker" you have to release the disk for a split second in order to fire.
+
+### Coleco
+You can also do the same for Colecovision cores as the controllers are so similar. The default blueMSX core allows button assignment, so no need to compile a new one. I did find GearColeco works better, and you need to compile that yourself
